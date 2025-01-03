@@ -1,0 +1,307 @@
+* {
+  margin: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+
+  @media only screen and (max-width: 600px) {
+  }
+}
+.storemac {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 19.14px;
+  background-color: rgba(245, 245, 247, 0.8);
+  padding: 0px 8px;
+}
+.text {
+  display: flex;
+  height: 44px;
+  flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
+  align-self: stretch;
+  color: #000;
+  text-align: center;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px; /* 500% */
+  letter-spacing: -0.28px;
+}
+.were {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  height: 52.58px;
+  background: #fff;
+}
+.weredon {
+  flex-shrink: 0;
+  color: #1d1d1f;
+  text-align: center;
+  font-family: Inter;
+  font-size: 13.891px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20.59px; /* 148.229% */
+  letter-spacing: -0.374px;
+}
+.ehnii-heseg {
+  display: flex;
+  gap: 859.64px;
+  padding-bottom: 58px;
+}
+.store-gift {
+  display: flex;
+  padding: 77px 38.53px 61px 140px;
+}
+.store {
+  font-family: "Helvetica Neue";
+  font-size: 43.875px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52.01px; /* 118.541% */
+  letter-spacing: -0.144px;
+  background: linear-gradient(90deg, #0090f7 0%, #ba62fc 50%, #f2416b 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.gift-magic {
+  color: #6e6e73;
+  font-family: "Helvetica Neue";
+  font-size: 43.875px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52.01px; /* 118.541% */
+  letter-spacing: -0.144px;
+}
+.need-ask-visit-find {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+
+  justify-content: flex-end;
+}
+.ehnii-zurag {
+  width: 35px;
+  height: 35px;
+  flex-shrink: 0;
+}
+
+.ehnii-text-image {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 9px;
+}
+.visit-find {
+  gap: 2px;
+}
+.need {
+  color: #1d1d1f;
+  font-family: "Helvetica Neue";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px; /* 142.857% */
+  letter-spacing: -0.224px;
+}
+#ask-find {
+  color: #06c;
+  font-family: "Helvetica Neue";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px; /* 142.857% */
+  letter-spacing: -0.224px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-decoration-skip-ink: auto;
+  text-decoration-thickness: auto;
+  text-underline-offset: auto;
+  text-underline-position: from-font;
+}
+.icon-find {
+  display: flex;
+  gap: 7px;
+}
+.mac-applegift {
+  display: flex;
+  justify-content: center;
+  padding: 10px 184px 40px 140px;
+  gap: 26px;
+}
+.image-text-gap {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 16px;
+}
+.the-latest {
+  color: #6e6e73;
+  font-family: "Helvetica Neue";
+  font-size: 25.594px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 125.031% */
+  letter-spacing: 0.196px;
+}
+.the-let {
+  display: flex;
+  padding: 37px 0px 14px 140px;
+}
+.overhidden {
+  overflow: scroll;
+}
+.overhidden::-webkit-scrollbar {
+  display: none;
+}
+.back2 {
+  display: flex;
+  gap: 20px;
+
+  padding: 10px 0px 40px 140px;
+}
+.apple-text {
+  position: relative;
+  width: 480px;
+  height: 500px;
+  flex-shrink: 0;
+  padding: 30px;
+}
+.zuragnuud {
+  position: absolute;
+  border-radius: 20px;
+  width: 480px;
+  height: 500px;
+  flex-shrink: 0;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.text-app {
+  color: #b64400;
+  font-family: "Helvetica Neue";
+  font-size: 11.813px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 135.45% */
+  letter-spacing: -0.12px;
+}
+.ip {
+  color: #1d1d1f;
+  font-family: "Helvetica Neue";
+  font-size: 25.594px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 125.031% */
+  letter-spacing: 0.196px;
+}
+.from {
+  color: #1d1d1f;
+  font-family: "Helvetica Neue";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px; /* 123.529% */
+  letter-spacing: -0.374px;
+}
+.size {
+  padding-top: 54px;
+}
+.overflow {
+  overflow: scroll;
+}
+.overflow::-webkit-scrollbar {
+  display: none;
+}
+.content {
+  display: flex;
+  gap: 20px;
+  padding: 10px 0px 40px 140px;
+}
+.air-zurag {
+  width: 230px;
+  height: 230px;
+  flex-shrink: 0;
+}
+.tseg {
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+}
+.airdrop {
+  width: 313px;
+  height: 500px;
+  flex-shrink: 0;
+  border-radius: 18px;
+  background: #fff;
+  box-shadow: 2px 4px 12px 0px rgba(0, 0, 0, 0.08);
+  padding: 71px 30px 31px 30px;
+}
+.airdrop-child {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.tsegnuud {
+  padding: 25px 76px 21px 79px;
+  gap: 7px;
+}
+.free {
+  color: #b64400;
+  font-family: "Helvetica Neue";
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px; /* 133.333% */
+  letter-spacing: -0.12px;
+}
+.AirPods-Max-Purple {
+  color: #1d1d1f;
+  font-family: "Helvetica Neue";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px; /* 123.529% */
+  letter-spacing: -0.374px;
+}
+.dollar-text {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.small-airpod {
+  display: flex;
+  flex-direction: column;
+  gap: 61px;
+}
+.rm {
+  width: 400px;
+  height: 500px;
+  flex-shrink: 0;
+  position: relative;
+}
+.ehnii-image {
+  border-radius: 18px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.make-their {
+  color: #1d1d1f;
+  font-family: "Helvetica Neue";
+  font-size: 25.484px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 125.567% */
+  letter-spacing: 0.196px;
+  width: 279.4px;
+  height: 66px;
+  padding: 53px 0px 0px 30px;
+}
